@@ -1,0 +1,34 @@
+# Source files
+src/
+*.js.map
+
+# Test files
+test/
+__tests__/
+*.test.js
+*.spec.js
+jest.config.js
+
+# Documentation
+docs/
+*.md
+!README.md
+
+# Development files
+.git/
+.github/
+.gitignore
+.editorconfig
+.eslintrc
+.prettierrc
+babel.config.js
+tsconfig.json
+
+# CI/CD
+.github/workflows/
+
+# Misc
+.DS_Store
+.env
+.env.*
+*.log 

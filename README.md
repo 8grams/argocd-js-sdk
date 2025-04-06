@@ -1,5 +1,10 @@
 # ArgoCD JS SDK
 
+[![npm version](https://badge.fury.io/js/argocd-js-sdk.svg)](https://badge.fury.io/js/argocd-js-sdk)
+[![Build Status](https://github.com/yourusername/argocd-js-sdk/workflows/NPM%20Publish/badge.svg)](https://github.com/yourusername/argocd-js-sdk/actions)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Node.js Version](https://img.shields.io/badge/node-%3E%3D14.0.0-brightgreen.svg)](https://nodejs.org/)
+
 A JavaScript SDK for interacting with the ArgoCD API. This SDK provides a simple and intuitive way to manage your ArgoCD resources programmatically.
 
 ## Features
@@ -121,8 +126,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Support
 
-If you encounter any issues or have questions, please open an issue in the GitHub repository.
-
-## Versioning
-
-This project uses [Semantic Versioning](http://semver.org/). For the versions available, see the [tags on this repository](https://github.com/yourusername/argocd-js-sdk/tags). 
+If you encounter any issues or have questions, please open an issue in the [GitHub repository](https://github.com/8grams/argocd-js-sdk/issues).
