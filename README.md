@@ -1,7 +1,7 @@
 # ArgoCD JS SDK
 
 [![npm version](https://badge.fury.io/js/argocd-js-sdk.svg)](https://badge.fury.io/js/argocd-js-sdk)
-[![Build Status](https://github.com/yourusername/argocd-js-sdk/workflows/NPM%20Publish/badge.svg)](https://github.com/yourusername/argocd-js-sdk/actions)
+[![Build Status](https://github.com/8grams/argocd-js-sdk/workflows/NPM%20Publish/badge.svg)](https://github.com/8grams/argocd-js-sdk/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Node.js Version](https://img.shields.io/badge/node-%3E%3D14.0.0-brightgreen.svg)](https://nodejs.org/)
 
