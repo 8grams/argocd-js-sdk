@@ -1,6 +1,6 @@
 {
   "name": "argocd-js-sdk",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "A JavaScript SDK for interacting with the ArgoCD API",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -9,7 +9,7 @@
     "dist"
   ],
   "scripts": {
-    "build": "babel src -d dist",
+    "build": "node init && babel src -d dist",
     "test": "jest",
     "lint": "eslint src",
     "prepare": "npm run build"
